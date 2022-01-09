@@ -1,0 +1,11 @@
+{
+  "name": "md-run",
+  "version": "v0.0.1-alpha",
+  "description": "Run NodeJS Project from Markdown file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
