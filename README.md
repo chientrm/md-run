@@ -1,4 +1,4 @@
-# :star: md-run :star: - Run NodeJS project from MarkDown file
+# :star: md-run :star: - Run MarkDown file
 
 ![logo](logo.png)
 
