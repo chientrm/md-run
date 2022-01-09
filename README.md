@@ -17,7 +17,12 @@ npm install -g md-run
 ## Usage
 
 ```bash
-md-run <script name> <filepath / url>
+$ md-run
+Options:
+  -s, --script   script name. eg: start, test,...    [string] [default: "start"]
+  -u, --uri      uri pointed to markdown file                [string] [required]
+      --help     Show help                                             [boolean]
+      --version  Show version number                                   [boolean]
 ```
 
 ```bash
